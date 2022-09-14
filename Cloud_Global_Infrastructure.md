@@ -1,4 +1,5 @@
-# Cloud Global INfrastructure
+### Arturo Hernandez / September 14, 2022
+# Cloud Global Infrastructure
 
 ## Overview
 - Identify how regions affect cloud infrastructure
@@ -26,3 +27,7 @@
 (personal computers, servers, clusters of servers)
 
 ## Regions, AZ's Edge locations
+- # of Edge Locations > # of Availability Zones > # of Regions
+
+- AWS Foundatitonal Services
+- AWS Categories of Service
