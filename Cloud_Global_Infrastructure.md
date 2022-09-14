@@ -27,7 +27,7 @@
 (personal computers, servers, clusters of servers)
 
 ## Regions, AZ's Edge locations
-- # of Edge Locations > # of Availability Zones > # of Regions
+- # Of Edge Locations > # of Availability Zones > # of Regions
 
 - AWS Foundatitonal Services
 - AWS Categories of Service
