@@ -1,3 +1,5 @@
+NOTES 07: STORAGE CIT 114 Arturo Hernandez
+
 ## Storage Types
 - Volatile vs Non - Volatile
 - Local Storage
