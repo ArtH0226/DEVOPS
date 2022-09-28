@@ -1,3 +1,4 @@
+NOTES 06: COMPUTE CIT 114 Arturo Hernandez
 # AWS Compute Services
 
 ## Overview 
