@@ -1,4 +1,4 @@
-# AWS Computer Services
+# AWS Compute Services
 
 ## Overview 
 - AWS Computing Resources (EC2) 
