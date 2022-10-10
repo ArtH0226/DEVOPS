@@ -8,12 +8,19 @@
 ## Topics:
 - Monitoring with CloudWatch
 - Alarms and Alerts
--
+- Elastic Load Balancing 
+- Application Load Balancing
+- Network Load Balancing
+- EC2 auto scaling
+- AWS auto scaling
 
 ## Questions to Consider: 
 - What kind of monitoring service is available at AWS? 
 - Is it possible to be notified when problems occur with applications?
-- Can automated solutions be set
+- Can automated solutions be set in place for applications that are overloaded?
+- Can the load balancer perform decryption and authentication?
+- can we track user authentications when problems occur?
+- How complicated is it to set up automatic scaling?
 
 ## Monitoring with CloudWatch
 - Get alerts when things go wrong
@@ -23,6 +30,15 @@
 - Set alarms based on usage, or money spent
 
 ## CloudWatch Terminology
+- Namespace
+- Metrics
+- Statistics
+  - Minimum
+  - Maximum
+  - Sum
+  - SampleCount
+  - Average
+- Dimensions
 - Units of measurement
 - Timestamp
 - Time Range (Period)
@@ -36,7 +52,11 @@
 ## Elastic Load Balancing
 - Load Balancing -> Spreads out network traffic among multiple servers
 - Also provides redundancy -> One server goes down, no break in services
-- Most AWS Services are offered with a "built-in" reundancy... 
+- Most AWS Services are offered with a "built-in" reundancy... EXCEPT for EC2!!
+
+- Options:
+  - Application Load Balancer (ALB)
+  - Netowkr Load Balancer (NLB)
 
 - ELB is Redundant
 - EC2 Health Checks
