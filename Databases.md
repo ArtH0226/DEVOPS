@@ -1,5 +1,5 @@
 # Databases
-
+Notes 08:
 ## What is a Database?
 - Definition: A shared collection of related data used to support the activities of a particular organization
 - Purpose: To a Sepcific piece (or group) of information quickly.
