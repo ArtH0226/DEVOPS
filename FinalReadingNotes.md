@@ -82,3 +82,8 @@
 - Relibaility
 - Availability AWS Trusted Advisor
 - 
+
+## Automatic Scaling & Monitoring
+- AWS CloudWatch
+- Amazon EC2 Auto Scaling
+- Chapter 5 via O' Reily: PLanning for Scale & Resiliency
